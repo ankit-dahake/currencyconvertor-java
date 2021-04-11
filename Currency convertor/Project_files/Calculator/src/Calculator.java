@@ -29,7 +29,7 @@ public class Calculator {
             System.out.println();
             System.out.println("This is the Cammand line softwere/tool made in Java Programing Language, it includes \n  1: calculator  \n  2: Currancy Converter using Application Programing interface(API) \n  3: Unit Converter only matrix units");
             System.out.println();
-            System.out.println("Developed by :\n Ankit Dahake \n Gargi Pawar \n Samiksha Gawande \n Asmita Kutwal \n Triveni ingle");
+            System.out.println("Developed by :\n Ankit Dahake");
             System.out.println();
             System.out.println("Select what you want to Use :");
             System.out.println(" 1: Calculator \n 2: Currancy Converter \n 3: Unit Converter");
